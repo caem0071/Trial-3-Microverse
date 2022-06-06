@@ -1,4 +1,9 @@
 #image {
-  max-width: 50%;
-  height: 200px;
+  width: 100%;
+  height: auto;
+  
+}
+
+#img-div {
+  text-align: center;
 }
